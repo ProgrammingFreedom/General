@@ -2,5 +2,8 @@
 # All contents of the website final directory
 /_site/
 /.site/*
+# Don´t add the Jekyll cache
+/.jekyll/
+/.jekyll.*
 # All lock files
 *.lock
