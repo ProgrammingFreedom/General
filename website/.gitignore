@@ -1,0 +1,6 @@
+
+# All contents of the website final directory
+/_site/
+/.site/*
+# All lock files
+*.lock
