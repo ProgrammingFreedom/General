@@ -1,0 +1,11 @@
+# Default site variables
+defaults:
+  -
+    scope:
+      path: ""
+    values:
+      layout: "default"
+
+# Custom variables for use in content
+content:
+  project-name: "Programming Freedom"

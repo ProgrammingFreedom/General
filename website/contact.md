@@ -1,7 +1,7 @@
 ---
-layout: default
-title: Contact
+title: Internal Contacts - Programming Freedom Project
 ---
-## Internal Contacts
 
-This page will be written once the logistics of a no-cost email service are established.
+<h1 class="title-style">Internal Contacts</h1>
+
+TBA

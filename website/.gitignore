@@ -3,7 +3,7 @@
 /_site/
 /.site/*
 # Don´t add the Jekyll cache
-/.jekyll/
-/.jekyll.*
+/.jekyll-metadata/
+/.jekyll-netadata.*
 # All lock files
 *.lock

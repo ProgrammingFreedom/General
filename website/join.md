@@ -1,8 +1,13 @@
 ---
-layout: default
-title: Join
-project-title: Human Existence Project
+title: Joining the Programming Freedom Project
 ---
-## Procedure for joining the {{page.project-title}}
 
-To be added.
+<h1 class="title-style">{{page.title}}</h1>
+
+## What a contributor is
+
+TBA
+
+## How to join
+
+TBA

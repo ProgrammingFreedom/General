@@ -1,7 +1,13 @@
 ---
-layout: default
-title: Founder
+title: Founder's Biography
 ---
-# Founder's Biography
 
-This file will contain a short biography of the project founder that is intended to help you decide if you are interested in the project.
+<h1 class="title-style">{{page.title}}</h1>
+
+## Overview
+
+TBA
+
+## Chronological History
+
+TBA

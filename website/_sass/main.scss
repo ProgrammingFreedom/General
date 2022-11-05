@@ -1,10 +1,13 @@
+/* This style is use to mark the active page selection button */
 .current {
     color: red;
 }
+/* This style is used to set the page background color for all pages */
 body{ 
     background-color: lightgoldenrodyellow;
 }
-project-header {
+/* This style is used to format the title of a page */
+h1.title-style {
     color: blue;
-/*   text-align: center; */
+    text-align: center; 
  }
